@@ -1068,7 +1068,6 @@
 *://*.swapface.org/*
 *://*.deepfaker.app/*
 *://*.soulgen.net/*
-*://*.perchance.org/*
 *://*.dezgo.com/*
 *://*.nudeme.net/*
 *://*.undress.vip/*
